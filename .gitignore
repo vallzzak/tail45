@@ -1,0 +1,5 @@
+node_modules/
+*.exe
+*.msi
+DB_data/
+Resilio Sync/
